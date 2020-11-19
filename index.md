@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+### What is this ?
+This is a second version of iso.nicholasrassya.my.id that serve a iso mirror!
 
-You can use the [editor on GitHub](https://github.com/Binniclas/universaliso.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Download
+- Kali Linux : [Download](https://drive.google.com/file/d/124zV9n3xnHMWQhbKNVE318HUW2SKxzVb/view?usp=sharing)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Ubuntu ISO : [Download](https://drive.google.com/file/d/1Jt1e1O6yPtbJedDwTknZEBlrab4Y8c_9/view?usp=sharing)
 
-### Markdown
+- Debian ISO : [Download](https://drive.google.com/file/d/1-8tePKUD0iKuIKdSq6gUQ01mXufzQCB1/view?usp=sharing)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Manjaro KDE ISO : [Download](https://docs.google.com/uc?export=download&id=1-MGj__ZR-aVeR4V0bI6V_RISdQlxo6QQ)
 
-```markdown
-Syntax highlighted code block
+- Elementary OS : [Download](https://docs.google.com/uc?export=download&id=1-MGj__ZR-aVeR4V0bI6V_RISdQlxo6QQ)
 
-# Header 1
-## Header 2
-### Header 3
+- Raspi OS 64-bit : [Download](https://docs.google.com/uc?export=download&id=1-ejove6uPiMUH00z-zyBXPBoESMCVFNm)
 
-- Bulleted
-- List
+### Windows ISO
+- Windows 8.1 x32 : [Download](https://docs.google.com/uc?export=download&id=1ppLtS2zxVgerzWt-AEpsBGnMqcCBJq7I)
 
-1. Numbered
-2. List
+### FAQ's
+Where is the iso hosted on ?
 
-**Bold** and _Italic_ and `Code` text
+- The iso is hosted on Premium Google Drive so your download fast and no lag!
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+What is the different from the default mirrors?
 
-### Jekyll Themes
+- Our mirror is hosted on google drive so the download is much faster and better bandwith optimization
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Binniclas/universaliso.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+What is your total cost for mirroring this ISO's?
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- No costs at all!, all this iso's is stored on google drive!
+
+*Maybe im gonna add windows iso's but you need your own license!
